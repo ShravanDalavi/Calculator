@@ -30,5 +30,13 @@ This project demonstrates the creation of a functional web-based calculator usin
 1.	MDN Web Docs - HTML
 2.	MDN Web Docs - CSS
 3.	MDN Web Docs - JavaScript
+   
+## Contributors
 
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: https://github.com/ShravanDalavi
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub: https://github.com/SonawaneAshwini
 
