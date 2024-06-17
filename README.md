@@ -26,7 +26,7 @@ The system integrates the calculator functionalities within a responsive and int
 This project demonstrates the creation of a functional web-based calculator using HTML, CSS, and JavaScript. It offers basic arithmetic operations and a dark mode feature, ensuring a good user experience with a responsive design.
 
 # References
-1.	[ MDN Web Docs - HTML ] [https://developer.mozilla.org/en-US/docs/Web/HTML]
+1.	[ MDN Web Docs - HTML ] (https://developer.mozilla.org/en-US/docs/Web/HTML)
 2.	MDN Web Docs - CSS
 3.	MDN Web Docs - JavaScript
    
