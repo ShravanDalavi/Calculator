@@ -2,7 +2,8 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo](https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo).
 
-![image](https://github.com/ShravanDalavi/calculator/assets/172488772/0758b95c-1087-4254-8eec-aa285bbdb1cc)
+![image](https://github.com/ShravanDalavi/calculator/assets/172488772/bca31dc8-703e-4bd2-a273-0d1821a5c348)
+
 
 
 # Introduction
