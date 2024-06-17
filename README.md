@@ -27,8 +27,8 @@ This project demonstrates the creation of a functional web-based calculator usin
 
 # References
 1.	[ MDN Web Docs - HTML ](https://developer.mozilla.org/en-US/docs/Web/HTML)
-2.	MDN Web Docs - CSS
-3.	MDN Web Docs - JavaScript
+2.	[MDN Web Docs - CSS ](https://developer.mozilla.org/en-US/docs/Web/CSS)
+3.	[MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    
 ## Contributors
 
