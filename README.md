@@ -27,8 +27,7 @@ This project demonstrates the creation of a functional web-based calculator usin
 ## Contributors
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
-  - GitHub: https://github.com/ShravanDalavi
+  - GitHub: [Profile](https://github.com/ShravanDalavi)
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
-  - GitHub: https://github.com/SonawaneAshwini
-
+  - GitHub:  [Email](https://github.com/SonawaneAshwini)
