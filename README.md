@@ -1,5 +1,4 @@
 # Calculator
-
 ![image](https://github.com/ShravanDalavi/calculator/assets/172488772/bca31dc8-703e-4bd2-a273-0d1821a5c348)
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo](https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo).
