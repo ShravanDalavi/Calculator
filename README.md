@@ -3,7 +3,6 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo](https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo).
 
-
 # Introduction
 The project is a simple yet functional web-based calculator. It features basic arithmetic operations and a dark mode toggle. The system consists of three main files: index.html for the structure, style.css for the styling, and script.js for the interactive functionality.
 # System Architecture
