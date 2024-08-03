@@ -1,7 +1,7 @@
 # Calculator
 ![image](https://github.com/ShravanDalavi/calculator/assets/172488772/bca31dc8-703e-4bd2-a273-0d1821a5c348)
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo](https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo).
+A Pen created on CodePen.io. Original URL: [Link to demo](https://codepen.io/Shravan-Dalavi/pen/ZEZNQPo).
 
 # Introduction
 The project is a simple yet functional web-based calculator. It features basic arithmetic operations and a dark mode toggle. The system consists of three main files: index.html for the structure, style.css for the styling, and script.js for the interactive functionality.
